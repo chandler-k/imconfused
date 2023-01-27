@@ -1,0 +1,28 @@
+h1 {
+    text-align: center;
+    color: rgb(255, 5, 151)
+}
+p {
+    text-align: center;
+}
+html {
+    background-color: aliceblue;
+}
+
+h2{
+    text-align: center;
+    color:rgb(255, 5, 151);
+}
+
+#snow {
+     width: 200px;
+     height: 300px;   
+     margin-left: 500px;
+}
+#jumpscare{
+    margin-left: 50px;
+}
+button{
+    margin-left: 400px;
+}
+ 
